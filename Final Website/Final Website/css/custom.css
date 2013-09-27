@@ -1,0 +1,8 @@
+/* Add here all your CSS customizations */
+
+footer{
+	left:0;
+	right:0;
+	position:absolute;
+	margin-top:250px;
+}
